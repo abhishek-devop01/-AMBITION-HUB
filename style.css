@@ -218,7 +218,7 @@ section{
     object-fit: cover;
     transform: scale(.5);
     will-change: transform;
-    filter: grayscale(50%);
+    filter: grayscale(80%);
 }
 
 .video__text__overlay{
